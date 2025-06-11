@@ -5,7 +5,7 @@ description = "Rapidly sort a Pandas DataFrame of numeric values to minimize the
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "pandas==2.2.0",
+    "pandas>=2.2.0",
     "pyarrow>=20.0.0",
-    "scipy==1.10.0",
+    "scipy>=1.10.0",
 ]
